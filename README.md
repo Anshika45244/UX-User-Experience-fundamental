@@ -45,12 +45,5 @@ Want to add a new topic or improve existing content? Contributions are welcome! 
 
 Have suggestions or questions? Open an issue or reach out via GitHub discussions.
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 Happy learning and designing! 🎨✨
